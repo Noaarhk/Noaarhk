@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 ---
 ### what I'am doing
 - working on [GATGU](https://github.com/wafflestudio/gatgu-server) as a backend devleoper using Django
-- studying algorithm with [WARD](https://github.com/wafflestudio/waffle-algorithm) using python
+    - skillsets : DRF, Redis, Mysql, AWS( EC2, EBS, RDS, Docker ) , GitAtion (CI/CD )
+- studying algorithm with [WARD](https://github.com/wafflestudio/waffle-algorithm) 
+    - lang : python 
